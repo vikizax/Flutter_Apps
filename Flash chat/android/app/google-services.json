@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1019023460115",
+    "firebase_url": "https://flashchatflutter-986e0.firebaseio.com",
+    "project_id": "flashchatflutter-986e0",
+    "storage_bucket": "flashchatflutter-986e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019023460115:android:5a5f33302f602413ed7ce6",
+        "android_client_info": {
+          "package_name": "co.vivek.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019023460115-teovcvb7lpmc6rkdqpd86840tinr4l0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwWiSizWW5IreZ6TUmu8bhAUcLdHFJBcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019023460115-teovcvb7lpmc6rkdqpd86840tinr4l0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
